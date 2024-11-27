@@ -1,5 +1,5 @@
 # INFO6146 Project 2
---- 
+
 ## Group 3
 **Ghazi Al Barakeh, Mohamed Ali, Maher Alqarra, Jack Ivanisevic, Usman Raza**
 
