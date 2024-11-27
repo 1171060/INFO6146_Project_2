@@ -10,7 +10,7 @@ Design, implement and evaluate an end-to-end unsupervised learning model using K
 # Dataset Description
 TensorFlow Datasets provides a variety of datasets that you can use for anomaly detection tasks. Use the tfds.list_builders() function to see a list of available datasets, and search for Anomaly Detection Datasets using “search_results = tfds.list_builders(search_text='anomaly')”. Once you identify a dataset suitable for your anomaly detection task, you can load it using the tfds.load() function
 
-Group 3 has selected a cred card fraud detection dataset from [https://www.kaggle.com/](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+Group 3 has selected a cred card fraud detection dataset from https://www.kaggle.com/code/naveengowda16/anomaly-detection-credit-card-fraud-analysis/notebook
 
 # Tasks to be Completed
 **Marks: 50**
