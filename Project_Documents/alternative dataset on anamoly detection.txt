@@ -1,0 +1,21 @@
+Dear Colleagues
+
+ 
+
+We have just released 250 Time Series Anomaly Detection datasets.
+
+ 
+
+The datasets were part of The Hexagon ML/UCR Time Series Anomaly Detection Challenge at SIGKDD 2021.
+
+ 
+
+ 
+
+Each dataset comes with provenance that explains the origin of the anomaly.
+
+ 
+
+The files are here
+
+https://www.cs.ucr.edu/~eamonn/time_series_data_2018/UCR_TimeSeriesAnomalyDatasets2021.zip
